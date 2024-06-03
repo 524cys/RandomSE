@@ -10,7 +10,7 @@ To use the `RandomSE` function in R, you need to have the Rcpp library installed
 install.packages("Rcpp")
 ```
 
-Then, load the library in R:
+Then, load the library:
 ```R
 library("Rcpp")
 ```
