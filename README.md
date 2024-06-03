@@ -15,7 +15,7 @@ Then, load the library in R:
 library("Rcpp")
 ```
 
-You can then source the RandomSE.rcpp file using sourceCpp():
+You can then source the RandomSE.cpp file using sourceCpp():
 ```R
 sourceCpp("C:/RandomSE.cpp")
 ```
