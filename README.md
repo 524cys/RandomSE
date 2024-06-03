@@ -4,7 +4,7 @@ Random Subsampling Ensemble method for recovering regression coefficients in the
 
 # Installation
 
-To use the `RandomSE` function, you need to have the Rcpp library installed. You can install it from CRAN using the following command:
+To use the `RandomSE` function in R, you need to have the Rcpp library installed. You can install it from CRAN using the following command:
 
 ```R
 install.packages("Rcpp")
