@@ -32,7 +32,7 @@ Y <- X%*%beta + e
 # Call the RandomSE function
 beta.rs <- RandomSE(X, Y, subsamp = 10, B1 = 100, B2 = 100)
 
-# Print the regression coefficient estimates
+# Print the result
 print(beta.rs)
 ```
 
